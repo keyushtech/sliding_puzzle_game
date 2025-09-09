@@ -1,10 +1,3 @@
-﻿# --------------------------------------------------------------
-# NOTE FOR TA/Instructor:
-# This game requires tile images (GIFs) to run in medium/hard mode.
-# All required images are provided in this Google Drive folder.
-# Please download the folder and place it in the same directory
-# as this script.
-# --------------------------------------------------------------
 
 # Importing required packages
 
