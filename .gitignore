@@ -1,14 +1,52 @@
-# Python cache
+# =========================
+# Python defaults
+# =========================
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
 
-# Virtual env
+# Virtual environments
 venv/
 .env/
 .venv/
 
+# IDE / Editor configs
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+
+# Project-specific ignores
+medium_set/
+hard_set/
+*.gif
+
+# Logs
+*.log
+<<<<<<< HEAD
+# Python cache
+=======
+# =========================
+# Python defaults
+# =========================
+>>>>>>> 236aedc8862e43f085a3ef64112f94f76ced7bc4
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+<<<<<<< HEAD
+# Virtual env
+=======
+# Virtual environments
+>>>>>>> 236aedc8862e43f085a3ef64112f94f76ced7bc4
+venv/
+.env/
+.venv/
+
+<<<<<<< HEAD
 # IDE settings
 .vscode/
 .idea/
@@ -17,11 +55,28 @@ venv/
 .DS_Store
 
 # Project-specific: skip large image sets
+=======
+# IDE / Editor configs
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+
+# =========================
+# Project-specific ignores
+# =========================
+
+# Image sets (skip uploading large assets to GitHub)
+>>>>>>> 236aedc8862e43f085a3ef64112f94f76ced7bc4
 medium_set/
 hard_set/
 *.gif
 
 # Logs
 *.log
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 236aedc8862e43f085a3ef64112f94f76ced7bc4
